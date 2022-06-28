@@ -1,0 +1,16 @@
+PODS:
+  - FreestarAds-PreRelease (5.12.0-beta-16)
+
+DEPENDENCIES:
+  - FreestarAds-PreRelease (from `../../FreestarAds-Core/FreestarAds-PreRelease.local.podspec`)
+
+EXTERNAL SOURCES:
+  FreestarAds-PreRelease:
+    :path: "../../FreestarAds-Core/FreestarAds-PreRelease.local.podspec"
+
+SPEC CHECKSUMS:
+  FreestarAds-PreRelease: 75d69eec5c0a8a9c208a03e32d43310dbbb69a8b
+
+PODFILE CHECKSUM: dddfff3b8c84e468e06b42781d10ce156cbc99db
+
+COCOAPODS: 1.11.2
