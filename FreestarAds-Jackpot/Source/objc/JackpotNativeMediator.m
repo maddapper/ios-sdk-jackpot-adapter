@@ -16,6 +16,7 @@
 @implementation JackpotNativeMediator
 
 - (BOOL)canShowNativeAd {
+    FSTRLog(@"JACKPOT: Can show native ad.");
     return YES;
 }
 

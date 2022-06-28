@@ -20,6 +20,7 @@
 
 - (void)runInitialization {
     // run partner initialization here
+    FSTRLog(@"JACKPOT: Partner initialization.");
 //    NSError *error = [[NSError alloc] initWithDomain:@"com.jackpot.native.error"
 //                                                code:1
 //                                            userInfo:@{ NSLocalizedDescriptionKey : @"Jackpot partner failed to initialize."}];
